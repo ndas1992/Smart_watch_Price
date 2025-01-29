@@ -1,0 +1,91 @@
+,Brand,Current_Price,Original_Price,Discount_Percentage,Rating,Number_of_Ratings,Model_Name,Dial_Shape,Strap_Color,Strap_Material,Touchscreen,Battery_Life,Bluetooth,Display_Size,Weight
+0,noise,3799.0,7999.0,52.50656332,3.8,545.0,Wrb-sw-colorfitpro4alpha-std-blk_blk,,,,,8.0,Yes,,35 - 50 g
+1,noise,3499.0,5999.0,41.67361227,3.8,281.0,Wrb-sw-force-std-blk_blk,,,,,8.0,Yes,,35 - 50 g
+2,noise,1799.0,3999.0,55.01375344,4.0,32704.0,wrb-sw-colorfitgrand-std-blu_blu,,,Other,Yes,8.0,Yes,1.7 inches,35 - 50 g
+3,boat,1199.0,6990.0,82.84692418,4.0,27771.0,Watch Flash,,,Silicon,Yes,8.0,Yes,1.3 inches,50 - 75 g
+4,crossbeats,2999.0,9999.0,70.0070007,4.3,674.0,Grit,,,,Yes,12.5,Yes,1.8 inches,20 - 35 g
+5,samsung,18410.0,37999.0,51.55135661,4.3,5228.0,,,,,,3.6,Yes,4.6 inches,50 - 75 g
+6,samsung,,,,4.3,5228.0,,,,,,3.6,Yes,4.4 inches,20 - 35 g
+7,garmin,34990.0,51990.0,32.69859588,4.3,19.0,GM-010-02445-60,,,Carbon-Fiber;,,8.0,Yes,,35 - 50 g
+8,huawei,6400.0,11999.0,46.66222185,4.5,49.0,Leia-B19,,,,,8.0,Yes,0.5 inches,75g +
+9,dizo,,,,2.4,7.0,,,,,,,Yes,,75g +
+10,noise,1799.0,4999.0,64.01280256,4.1,13901.0,wrb-sw-colorfitpulsegobuzz-std-rgld_pnk,,,Other,Yes,8.0,Yes,1.7 inches,35 - 50 g
+11,gizmore,1499.0,5999.0,75.01250208,3.0,2.0,,,,,,,Yes,,75g +
+12,ambrane,2368.0,4499.0,47.36608135,3.5,301.0,FitShot Curl,,,,,12.5,Yes,,35 - 50 g
+13,fire-boltt,1999.0,7999.0,75.00937617,4.1,33012.0,BSW024,,,Silicon,Yes,8.0,Yes,1.7 inches,35 - 50 g
+14,noise,1799.0,3999.0,55.01375344,4.0,32704.0,wrb-sw-colorfitgrand-std-cgry_cgry,,,Other,Yes,8.0,Yes,1.7 inches,35 - 50 g
+15,pebble,4499.0,7499.0,40.00533404,3.6,94.0,PFB13 Charcoal Black,,,,Yes,12.5,Yes,1.3 inches,35 - 50 g
+16,pebble,4299.0,7499.0,42.67235631,3.6,55.0,PFB24,,,,Yes,,Yes,1.1 inches,35 - 50 g
+17,crossbeats,3999.0,7999.0,50.00625078,3.9,3856.0,S4 Max,,,,Yes,3.6,Yes,1.9 inches,20 - 35 g
+18,hammer,1799.0,4999.0,64.01280256,3.6,516.0,,,,,,,Yes,1.8 inches,75g +
+19,zebronics,2099.0,7999.0,73.7592199,3.8,7386.0,ZEB-FIT7220CH (Metallic Silver),,,Metal,Yes,8.0,Yes,4.4 inches,75g +
+20,zebronics,1999.0,6999.0,71.43877697,3.8,2138.0,ZEB-DRIP (METAL SILVER),,,,Yes,3.5,Yes,4.3 inches,35 - 50 g
+21,zebronics,2399.0,5999.0,60.01000167,3.8,3805.0,ZEB-FIT5220CH(Gold Metal),,,Other,Yes,22.0,Yes,4.4 inches,35 - 50 g
+22,fire-boltt,1299.0,7999.0,83.76047006,4.2,25784.0,BSW030,,,Silicon,Yes,8.0,Yes,1.7 inches,35 - 50 g
+23,fire-boltt,1799.0,9999.0,82.00820082,4.2,33415.0,BSW042,,,Silicon,Yes,8.0,Yes,1.3 inches,50 - 75 g
+24,fire-boltt,1794.0,7999.0,77.57219652,4.1,33012.0,BSW024,,,Silicon,Yes,8.0,Yes,1.7 inches,35 - 50 g
+25,fire-boltt,2499.0,11999.0,79.17326444,4.1,1990.0,BSW070,,,,Yes,8.0,Yes,1.9 inches,75g +
+26,apple,29900.0,,,4.6,5502.0,"Watch SE (GPS, 40mm) - Gold Aluminium Case with Starlight Sport Band - Regular",Rectangle,Gold,Silicon,Yes,22.0,Yes,1.6 inches,<= 20 g
+27,apple,29900.0,,,4.6,5502.0,Apple Watch SE,Rectangle,White,Silicon,Yes,22.0,Yes,1.6 inches,<= 20 g
+28,apple,44900.0,,,4.6,2847.0,Watch Series7 (GPS-45mm) (PRODUCT)RED Aluminium Case-(PRODUCT)RED Sport Band,Rectangle,Red,Aluminium,Yes,22.0,Yes,1.8 inches,20 - 35 g
+29,apple,73900.0,,,4.5,1519.0,"Watch Series7(GPS+Cellular, 41mm)-Gold Stainless Steel Case-Gold Milanese Loop",Rectangle,Gold,Stainless Steel,Yes,22.0,Yes,1.6 inches,<= 20 g
+30,noise,2999.0,7999.0,62.50781348,4.3,11755.0,ColorFit Vision 2 Buzz,Square,Black,Silicon,Yes,22.0,Yes,1.8 inches,
+31,noise,1499.0,3999.0,62.51562891,4.0,6638.0,"Core 2 1.28"" Display , Noisefit sync app, 100+ watch faces & 50+ Sports Modes",Circle,Black,Silicon,Yes,22.0,Yes,1.3 inches,
+32,boat,3299.0,9799.0,66.33329932,4.1,13261.0,"Storm Pro Call with Bluetooth Calling, 1.78'' AMOLED Display and ASAP Charge",Rectangle,Red,Silicon,Yes,22.0,Yes,1.8 inches,
+33,boat,2499.0,5990.0,58.28046745,4.2,39734.0,"Wave Connect with Bluetooth Calling, Voice Assistant and 1.69"" HD Display",Rectangle,Grey,Silicon,Yes,22.0,Yes,1.7 inches,
+34,boat,1299.0,6990.0,81.41630901,3.9,17456.0,Wave pro 1.69inch HD display withTemperature Sensor and live cricket updates,Rectangle,Purple,Silicon,Yes,22.0,Yes,1.7 inches,
+35,boat,2499.0,7990.0,68.72340426,4.0,8179.0,Wave Arcade with 1.81 inch HD Display and Bluetooth Calling,Rectangle,Green,Silicon,Yes,22.0,Yes,1.8 inches,
+36,boat,2999.0,7990.0,62.46558198,3.8,11340.0,Xplorer,Square,Black,Silicon,Yes,22.0,Yes,1.3 inches,
+37,honor,17999.0,20999.0,14.28639459,4.4,1111.0,Watch GS Pro,Circle,Blue,Nylon,Yes,17.5,Yes,1.4 inches,20 - 35 g
+38,honor,10999.0,13999.0,21.43010215,4.4,14613.0,Magic Watch 2 (42 mm),Circle,Black,Fluoroelastomer,Yes,22.0,Yes,1.7 inches,<= 20 g
+39,samsung,32999.0,35999.0,8.333564821,4.3,435.0,Watch 5 40mmSuper AMOLED display LTE calling & body composition tracking,Circle,Graphite,Rubber,Yes,3.5,Yes,1.2 inches,<= 20 g
+40,samsung,24999.0,26999.0,7.407681766,4.1,91.0,Galaxy Watch4 Bluetooth (4.0cm),Circle,Black,Fluoroelastomer,Yes,3.5,Yes,4.0 inches,<= 20 g
+41,samsung,16999.0,34999.0,51.43004086,4.2,567.0,Galaxy Watch4 LTE (4.4cm),Circle,Black,Fluoroelastomer,Yes,3.5,Yes,1.4 inches,<= 20 g
+42,samsung,17490.0,34999.0,50.02714363,4.2,567.0,Galaxy Watch4 Classic Bluetooth(4.2cm),Circle,Silver,Fluoroelastomer,Yes,3.5,Yes,1.2 inches,20 - 35 g
+43,samsung,16999.0,28490.0,40.33345033,4.1,1980.0,Galaxy Watch Active 2 Aluminium LTE,Circle,Grey,Silicon,Yes,3.5,Yes,1.4 inches,<= 20 g
+44,samsung,29990.0,30990.0,3.22684737,4.3,1489.0,Galaxy Watch 3 41 mm LTE,Circle,Pink,Leather,Yes,3.5,Yes,1.6 inches,20 - 35 g
+45,fitbit,14999.0,,,4.7,6.0,fitbit charge 5 black,Rectangle,Black,Silicon,Yes,3.5,No,0.2 inches,
+46,fitbit,17699.0,18999.0,6.842465393,4.3,455.0,Versa 3,Curved,Black,Rubber,Yes,17.5,Yes,15.9 inches,
+47,fitbit,20499.0,,,4.7,114.0,Versa 4,Square,Beet Juice,Silicon,Yes,17.5,Yes,1.5 inches,20 - 35 g
+48,fitbit,26499.0,,,4.1,367.0,Ionic,Square,Grey,Rubber,Yes,17.5,Yes,1.3 inches,
+49,fitbit,24999.0,,,4.7,,Sense 2,Square,White Platinum,Silicon,Yes,17.5,Yes,1.5 inches,20 - 35 g
+50,fitbit,20499.0,,,4.7,,Fitbit Versa 4 Fitness Watch (Black / Graphite Aluminium)6-Month Membership,Curved,Black,Rubber,Yes,3.5,Yes,0.2 inches,
+51,fitbit,20499.0,,,4.7,,Fitbit Versa 4 Fitness Watch (Waterfall Blue / Platinum Aluminium) Membership,Curved,Blue,Rubber,Yes,22.0,Yes,0.2 inches,
+52,amazfit,3999.0,5999.0,33.33888981,4.2,3130.0,"Pop 2 with Ultra-large 1.78 inch HD AMOLED Display, BT Calling, SpO2",Square,Pink,Silicon,Yes,22.0,Yes,1.8 inches,75g +
+53,amazfit,4499.0,5999.0,25.00416736,4.1,333.0,Bip 3 Pro with 1.69 inch Large Color Display Built-in GPS,Square,Beige,Silicon,Yes,8.0,Yes,1.7 inches,<= 20 g
+54,amazfit,9999.0,17999.0,44.44691372,4.5,5265.0,T rex Pro 1.3HD AMOLED with advanced GPS & 10ATM water resistance,Circle,Black,Silicon,Yes,12.5,Yes,1.3 inches,75g +
+55,garmin,16990.0,20990.0,19.05669366,4.4,90.0,"Venu Sq, Smartwatch, Advanced Sleep Monitoring, Upto 6 Days of Battery, SPO2",Square,Grey,Silicon,Yes,17.5,Yes,1.3 inches,20 - 35 g
+56,garmin,24990.0,36490.0,31.51548369,4.4,43.0,"Forerunner 245 Music, GPS Running Smartwatch, Advanced Running Dynamics",Circle,Red,Silicon,No,22.0,Yes,1.2 inches,20 - 35 g
+57,garmin,67490.0,,,4.7,,"Forerunner 955 Solar charging upto 20 days, HRV & Stamina Status, Triathlon",Circle,White,Silicon,No,8.0,Yes,1.3 inches,75g +
+58,garmin,67490.0,67990.0,0.735402265,4.7,6022.0,"Fenix 7 Multisport GPS Watch, Upto 18 Days Battery, Climbpro, Stamina, HRV",Circle,Grey,Silicon,Yes,12.5,Yes,0.1 inches,
+59,garmin,27990.0,39990.0,30.00750188,3.7,10.0,"Venu, GPS Smartwatch with Music, Body Energy Monitoring, Animated Workouts",Circle,Blue,Silicon,Yes,3.5,Yes,1.2 inches,20 - 35 g
+60,huawei,10990.0,20990.0,47.64173416,4.5,203.0,Watch GT Sport,Circle,Black,Silicon,Yes,8.0,Yes,1.8 inches,75g +
+61,fossil,17995.0,,,3.9,46.0,Sport Smartwatch,Circle,Multicolor,Silicon,Yes,17.5,Yes,1.2 inches,
+62,fossil,9995.0,17995.0,44.45679355,4.0,1532.0,Sport 43,Circle,Blue,Silicon,Yes,3.5,Yes,1.2 inches,
+63,fossil,13495.0,,,4.7,,Jacqueline,Circle,Black,Stainless Steel,No,17.5,Yes,1.3 inches,
+64,fossil,18995.0,,,4.0,102.0,Wander RG,Circle,Black,Silicon,Yes,22.0,Yes,45.0 inches,
+65,fossil,14995.0,,,3.9,41.0,Charter Hybrid HR Smartwatch,Circle,Black,Leather,No,3.5,Yes,1.2 inches,75g +
+66,fossil,16495.0,,,4.1,123.0,Collider Hybrid HR,Circle,Grey,Stainless Steel,No,3.5,Yes,1.1 inches,
+67,dizo,3999.0,6999.0,42.86326618,4.1,663.0,"Watch R Talk Go, 1.39 inch, 550nits display, 10 day battery (by realme TechLife)",Circle,Blue,Silicon,Yes,22.0,Yes,1.4 inches,20 - 35 g
+68,dizo,5999.0,6999.0,14.28775539,4.2,13.0,R TALK SMARTWATCH Amoled Display with Calling10 Days Battery(SilverGrey)FreeSize,Circle,Grey,Silicon,Yes,22.0,Yes,1.3 inches,75g +
+69,dizo,3999.0,5999.0,33.33888981,4.2,42860.0,D TALK SMART WATCH (SILVER GREY),Rectangle,Grey,Silicon,Yes,22.0,Yes,1.8 inches,75g +
+70,dizo,3999.0,5999.0,33.33888981,4.2,42860.0,"D Talk DW 32051 Smart Watch with Up to 7 Day Battery Life, Classic Black",Rectangle,Black,Silicon,Yes,22.0,Yes,1.8 inches,75g +
+71,gizmore,3499.0,8999.0,61.11790199,3.7,475.0,GizFit GLOW LUXE AMOLED with 3.35 Cm Display | 500 NITS| Bluetooth Calling,Circle,Black,Leather,Yes,3.5,Yes,1.3 inches,
+72,gizmore,1999.0,6999.0,71.43877697,3.8,927.0,GizFit PLASMA Bluetooth Calling Smartwatch | 1.9 Inch HD Display | 550 NITS,Square,Blue,Silicon,Yes,22.0,Yes,1.9 inches,20 - 35 g
+73,ambrane,1299.0,4999.0,74.01480296,4.2,60292.0,Wise-Eon 1.69Lucid Display bluetooth calling function & 7 days battery life,Square,Grey,Silicon,Yes,22.0,Yes,1.7 inches,
+74,ambrane,1599.0,5999.0,73.34555759,4.2,25108.0,"Wise-roam 1.28"" Full HD display,bluetooth calling and complete health tracking",Circle,Grey,Silicon,Yes,22.0,Yes,1.3 inches,
+75,ambrane,2499.0,5999.0,58.34305718,4.3,7767.0,"Wise Glaze with 1.78"" Amoled display, BT Calling,SPO2 , Heart Rate Monitor",Square,Grey,Silicon,Yes,22.0,Yes,1.8 inches,
+76,pebble,3999.0,9999.0,60.0060006,3.9,677.0,"Cosmos Grande 2.1 Largest Display, BT Calling, Wireless Charging,GPS Trajectory",Rectangle,Blue,Silicon,Yes,22.0,Yes,2.1 inches,20 - 35 g
+77,pebble,3999.0,7499.0,46.67288972,4.1,99.0,Venus,Circle,Black,Silicon,Yes,22.0,Yes,1.1 inches,
+78,pebble,3999.0,7999.0,50.00625078,3.9,2874.0,Cosmos Pro 1.7inch HD display with Bluetooth calling function,Square,"Pink, Gold",Silicon,Yes,22.0,Yes,0.1 inches,
+79,pebble,2499.0,4499.0,44.45432318,3.5,1014.0,"Spark 1.7 inch Bluetooth Calling, HD Display with SPO2, HR Monitor",Rectangle,Deep Wine,Silicon,Yes,,Yes,1.7 inches,20 - 35 g
+80,pebble,4499.0,7499.0,40.00533404,3.1,10.0,Revo Bluetooth Calling Smartwatch for Men Tan Leather,Circle,Black,Silicon,Yes,8.0,Yes,1.3 inches,
+81,pebble,3299.0,4999.0,34.00680136,3.8,,"prism ultra 1.69"" HD Display With Bluetooth Calling Green",Square,Sea Green,Silicon,Yes,8.0,Yes,0.1 inches,
+82,pebble,4990.0,6999.0,28.70410059,4.1,,"Pebble Cosmos, Bluetooth Calling smartwatch 24 Hour Health Tracking (Burgundy)",Square,Maroon,Silicon,Yes,8.0,Yes,0.1 inches,75g +
+83,pebble,5190.0,7499.0,30.7907721,4.1,,Venus Bluetooth Calling Smartwatch with Fitness Tracker for Women-Midnight Gold,Circle,Black,Silicon,Yes,,Yes,0.0 inches,
+84,zebronics,3099.0,7999.0,61.25765721,2.3,3.0,FIT7220CH,Curved,Silver,Aluminium,Yes,22.0,Yes,0.1 inches,
+85,fire-boltt,2299.0,5999.0,61.67694616,2.5,24.0,NINJA PRO MAX,Square,Blue,Silicon,Yes,22.0,Yes,1.6 inches,
+86,fire-boltt,3499.0,9999.0,65.00650065,3.7,,beast pro,Square,Blue,Rubber,Yes,8.0,Yes,0.1 inches,
+87,fire-boltt,1999.0,5999.0,66.67777963,3.7,,"SpO2 Full Touch 1.4 inch Smart Watch with Blood Oxygen, Fitness (Black)",Square,Black,Rubber,Yes,22.0,Yes,0.1 inches,
+88,fire-boltt,3599.0,9999.0,64.00640064,3.7,,ring,Square,Red,Rubber,Yes,22.0,Yes,0.1 inches,
+89,fire-boltt,3000.0,7999.0,62.49531191,,,call 2,Square,Black,Silicon,Yes,22.0,Yes,0.1 inches,
